@@ -1,4 +1,5 @@
 echo "Here's the info!"
+echo "Here's the info!"
 echo  BRANCH_NAME                     :  $BRANCH_NAME
 echo  BUILD_DISPLAY_NAME              :  $BUILD_DISPLAY_NAME
 echo  BUILD_ID                        :  $BUILD_ID
